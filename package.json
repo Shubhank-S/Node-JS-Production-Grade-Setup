@@ -1,0 +1,11 @@
+{
+  "name": "node-js-production-grade-project",
+  "version": "1.0.0",
+  "description": "Production grade setup",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Shubhank Sharma",
+  "license": "ISC"
+}
